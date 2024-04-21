@@ -1,7 +1,9 @@
 # real-time-pothole-detection
-Pothole detection from real time video stream or images with Python.
+Pothole detection from real time video stream or images with Python ussing cnn model.
 
 YoloV4-Tiny and OpenCV used for this project.
+
+- Clone the project
 
 - Goto the cloned folder.
 ```
@@ -20,9 +22,6 @@ pip install -r requirements.txt
 
 ` python camera_video.py`
 
-
-
-## Example Results
 
 
 
