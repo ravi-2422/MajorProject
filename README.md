@@ -7,7 +7,7 @@ YoloV4-Tiny and OpenCV used for this project.
 
 - Goto the cloned folder.
 ```
-cd pothole-detection
+cd MajorProject
 
 ```
 - Upgrade pip with mentioned command below.
